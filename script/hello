@@ -1,0 +1,12 @@
+var left = 100
+
+{
+    print left + 20
+}
+
+{
+    var left
+    var right = 12
+    left, right = 10+30, 20*10
+    print left / right * 100 - 100 + 2
+}
